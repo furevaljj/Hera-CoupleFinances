@@ -7,14 +7,6 @@
 An Android mobile app that lets a couple record income, expenses, savings and debts
 in a single financial space, with consolidated calculations in real time.
 
-![Expo](https://img.shields.io/badge/Expo-SDK%2057-000020?logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-0.86-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20RLS-3FCF8E?logo=supabase&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-284%20passing-C21325?logo=jest&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-</div>
 
 ---
 
