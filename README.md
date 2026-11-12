@@ -7,46 +7,6 @@
 An Android mobile app that lets a couple record income, expenses, savings and debts
 in a single financial space, with consolidated calculations in real time.
 
-
----
-
-## Screenshots
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="docs/screenshots/01-dashboard.png" alt="Summary screen with available money, income, expenses, savings and debts" width="240" /><br />
-      <sub><b>Summary</b><br />Money available for the period</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="docs/screenshots/02-movimientos.png" alt="Chronological history of household income and expenses" width="240" /><br />
-      <sub><b>Transactions</b><br />Shared history</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="docs/screenshots/03-cajas.png" alt="Savings pockets with progress toward the goal" width="240" /><br />
-      <sub><b>Pockets</b><br />Savings goals with progress</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="docs/screenshots/04-por-pagar.png" alt="Pending and paid debts with their payment progress" width="240" /><br />
-      <sub><b>To pay</b><br />Debts and payments</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="docs/screenshots/05-miembros.png" alt="Household members, invite code and notifications" width="240" /><br />
-      <sub><b>Members</b><br />Household, invite and alerts</sub>
-    </td>
-    <td align="center" width="33%"></td>
-  </tr>
-</table>
-
-</div>
-
-> The data in the screenshots is sample data (`ABC123` is a fictional code) and the
-> profiles are anonymized.
-
 ---
 
 ## Table of contents
